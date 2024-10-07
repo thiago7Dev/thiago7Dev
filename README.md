@@ -7,7 +7,7 @@
 - ⚡ Favorite quote: "A vida é combate,
 Que os fracos abate,
 Que os fortes, os bravos
-Só pode exaltar!
+Só pode exaltar!"
 Gonçalves Dias
 <!---
 thiago7Dev/thiago7Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
