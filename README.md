@@ -2,8 +2,6 @@
 - 👀 I’m interested in learning programming and evolving in my professional career.
 - 🌱 I’m currently learning Python and web development.
 - 💞️ I am looking to collaborate on small, socially-oriented projects.
-- 📫 How to reach me ...
-- 😄 Pronouns: He/ Him
 - ⚡ Favorite quote:
 > A vida é combate,  
 > Que os fracos abate,  
